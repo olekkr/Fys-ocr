@@ -1,5 +1,5 @@
 # Fys-ocr
 
-Reqiurements:
+# Reqiurements:
 ffmpeg
 various python libs
